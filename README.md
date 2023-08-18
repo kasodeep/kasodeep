@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-17-04&label=Profile%20views&color=0e75b6&style=flat" alt="deep-17-04" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently practicing **Data Structures and Algorithms**
 
-- 💬 Ask me about **Java, SpringBoot, Node, JavaScript**
+- 💬 Ask me about **Java, SpringBoot, Node, JavaScript, Competetive Programming.**
 
 - 📫 How to reach me **deepkasodariya44@gmail.com**
 
