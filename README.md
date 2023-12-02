@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deep kasodariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep kasodariya" height="30" width="40" /></a>
 <a href="https://instagram.com/deep__17_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep__17_04" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepk_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepk_17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nightfury17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepk_17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deep-17-04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deep-17-04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepkasod7x7e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepkasod7x7e" height="30" width="40" /></a>
 </p>
