@@ -27,9 +27,6 @@
   <a href="https://linkedin.com/in/deep-kasodariya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
 <hr/>
@@ -58,10 +55,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-kasodeep.vercel.app/?user=kasodeep&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-kasodeep.vercel.app/api?username=kasodeep&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-kasodeep.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodeep&show_icons=true&locale=en&layout=compact&theme=react" alt="deep-17-04" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasodeep&show_icons=true&locale=en&theme=react" alt="kasodeep" /></p>
 </div>
 
 <br/>
