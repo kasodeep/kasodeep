@@ -12,7 +12,7 @@
  
  📚 I’m currently studying at **Veermata Jijabai Technological Institute!**
  
- 🌱 I’m currently learning **Cypher, Spring Boot, GraphQL, React**
+ 🌱 I’m currently learning **Nextjs, Spring Boot, DSA!**
 
 💬 Ask me about **Node.js, React, Java, Python**
 
