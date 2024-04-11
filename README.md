@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasodeep.kasodeep" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Deep+🚀!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Deep+🚀!; Competitive Coder✊🏻;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India!</h3>
+<h3 align="center">Competitive Coder | Web Developer!</h3>
 
 <br/>
 
@@ -12,11 +12,11 @@
  
  📚 I’m currently studying at **Veermata Jijabai Technological Institute!**
  
- 🌱 I’m currently learning **Nextjs, Spring Boot, DSA!**
+ 🌱 I’m currently learning **Nextjs, Spring Boot, Graphs, CP!**
 
 💬 Ask me about **Node.js, React, Java, Python**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Nothing can hurt more now! 🙃**
 
  </div>
 
