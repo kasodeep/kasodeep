@@ -12,11 +12,11 @@
  
  📚 I’m currently studying at **Veermata Jijabai Technological Institute!**
  
- 🌱 I’m currently learning **Nextjs, Spring Boot, Graphs, CP!**
+ 🌱 I’m currently learning **Shh 😶! It's a secret!**
 
-💬 Ask me about **Node.js, React, Java, Python**
+💬 Ask me about **Java, JavaScript, Spring Boot, Node.js, Next.js**
 
-⚡ Fun fact **Nothing can hurt more now! 🙃**
+⚡ Fun fact **I cracker an Internship with Mock Interview. 🙃**
 
  </div>
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,python,react,html,css,vscode,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,html,css,vscode,tailwind,docker" />
 </br>
     <img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs,express,mysql,mongodb,postman,github,git,graphql" /><br>
 </div>
