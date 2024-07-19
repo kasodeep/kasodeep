@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, JavaScript, Spring Boot, Node.js, Next.js**
 
-⚡ Fun fact **I cracker an Internship with Mock Interview. 🙃**
+⚡ Fun fact **I cracked an Internship without Mock Interview. 🙃**
 
  </div>
 
