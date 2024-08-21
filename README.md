@@ -12,9 +12,9 @@
  
  📚 I’m currently studying at **Veermata Jijabai Technological Institute!**
  
- 🌱 I’m currently learning **Shh 😶! It's a secret!**
+ 🌱 I’m currently learning **Ssh 😶! It's a secret!**
 
-💬 Ask me about **Java, JavaScript, Spring Boot, Node.js, Next.js**
+💬 Ask me about **Java, JavaScript, Go,  Spring Boot, Node.js, Next.js**
 
 ⚡ Fun fact **I cracked an Internship without Mock Interview. 🙃**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nextjs,html,css,vscode,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=java,go,javascript,nextjs,html,css,vscode,tailwind,docker" />
 </br>
     <img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,mysql,mongodb,postman,github,git,graphql" /><br>
 </div>
@@ -43,22 +43,23 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>😎 My Contributions 😎</h2>
   <br>
   <img alt="Snake Eating my Contributions" src="https://raw.githubusercontent.com/kasodeep/kasodeep/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
+<h2 align="center">💹 Knowledge Graph 💹</h2>
+
+![My Skills Graph...](/Knowledge.jpeg)
+<hr/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodeep&show_icons=true&locale=en&layout=compact&theme=react" alt="deep-17-04" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasodeep&show_icons=true&locale=en&theme=react" alt="kasodeep" /></p>
 </div>
-
-<br/>
 
 <hr/>
