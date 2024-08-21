@@ -61,5 +61,3 @@
 <div align=center>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodeep&show_icons=true&locale=en&layout=compact&theme=react" alt="deep-17-04" /></p> 
 </div>
-
-<hr/>
