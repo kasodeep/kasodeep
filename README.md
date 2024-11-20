@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Ssh 😶! It's a secret!**
 
-💬 Ask me about **Java, JavaScript, Go,  Spring Boot, Node.js, Next.js**
+💬 Ask me about **Java, JavaScript,  Spring Boot, Node.js, Next.js**
 
 ⚡ Fun fact **I cracked an Internship without Mock Interview. 🙃**
 
