@@ -42,22 +42,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>😎 My Contributions 😎</h2>
-  <br>
-  <img alt="Snake Eating my Contributions" src="https://raw.githubusercontent.com/kasodeep/kasodeep/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 📈 GitHub Stats
 
-<h2 align="center">💹 Knowledge Graph 💹</h2>
-
-![My Skills Graph...](/Knowledge.jpeg)
-<hr/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodeep&show_icons=true&locale=en&layout=compact&theme=react" alt="deep-17-04" /></p> 
-</div>
+![Kasodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasodeep&show_icons=true&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasodeep&layout=compact&theme=nightowl)
