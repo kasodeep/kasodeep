@@ -9,8 +9,11 @@
 <br/>
 
 <div align="center">
+    
  🌱 I’m currently learning **Go 😶! Keep it a secret!**
+    
 💬 Ask me about **Java, Spring Boot, JavaScript, Node.js, Next.js**
+
 ⚡ Fun fact **I cracked an Internship without Mock Interview. 🙃**
 
  </div>
