@@ -9,13 +9,8 @@
 <br/>
 
 <div align="center">
- 
- 📚 I’m currently studying at **Veermata Jijabai Technological Institute!**
- 
- 🌱 I’m currently learning **Rust 😶! Keep it a secret!**
-
+ 🌱 I’m currently learning **Go 😶! Keep it a secret!**
 💬 Ask me about **Java, Spring Boot, JavaScript, Node.js, Next.js**
-
 ⚡ Fun fact **I cracked an Internship without Mock Interview. 🙃**
 
  </div>
@@ -34,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nextjs,html,css,vscode,tailwind,docker,rust" />
+    <img src="https://skillicons.dev/icons?i=java,go,javascript,nextjs,html,css,vscode,tailwind,docker,rust" />
 </br>
     <img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,mysql,mongodb,postman,github,git,graphql" /><br>
 </div>
